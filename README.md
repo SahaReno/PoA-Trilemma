@@ -2,7 +2,7 @@
 
 This repository provides reference Python modules implementing the main algorithms and building blocks used in the manuscript:
 **Formal Validation of the Proof-of-Access Architectures for Overcoming the Blockchain Trilemma**.
-(See manuscript uploaded to this conversation.)
+(Manuscript will be uploaded to this conversation after publication.)
 
 ## Contents
 - `utils.py` — helper utilities and datatypes
