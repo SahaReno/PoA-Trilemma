@@ -1,7 +1,7 @@
 # PoA-Trilemma
 
 This repository provides reference Python modules implementing the main algorithms and building blocks used in the manuscript:
-**Bridging the Blockchain Trilemma: A Formal Validation of Arweave's Proof-of-Access Architecture**.
+**Formal Validation of the Proof-of-Access Architectures for Overcoming the Blockchain Trilemma**.
 (See manuscript uploaded to this conversation.)
 
 ## Contents
